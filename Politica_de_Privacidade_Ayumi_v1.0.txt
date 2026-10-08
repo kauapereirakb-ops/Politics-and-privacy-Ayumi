@@ -1,0 +1,1284 @@
+POLÍTICA DE PRIVACIDADE — AYUMI
+
+Serviço: Ayumi
+Tipo: Bot e serviços auxiliares para Discord
+Versão: 1.0
+Última atualização: 08/10/2026
+
+------------------------------------------------------------------------
+
+1. SOBRE ESTA POLÍTICA
+
+Esta Política de Privacidade explica, de forma detalhada, quais
+informações o Ayumi utiliza, por que determinadas informações são
+necessárias, como elas podem ser armazenadas, como são protegidas e em
+quais situações podem ser utilizadas pelos recursos do serviço.
+
+O Ayumi é integrado ao Discord e possui recursos que podem utilizar
+informações relacionadas a usuários, servidores, interações,
+verificações, contas Roblox e operações realizadas pelo próprio bot.
+
+Esta Política deve ser interpretada em conjunto com os Termos de Uso do
+Ayumi e com os termos e políticas das plataformas externas utilizadas
+pelo serviço.
+
+Esta Política descreve o tratamento de informações conforme o
+funcionamento documentado dos recursos atuais. Quando uma informação não
+estiver documentada como sendo coletada ou armazenada pelo Ayumi, esta
+Política não deve ser interpretada como uma declaração de que tal
+informação seja coletada.
+
+------------------------------------------------------------------------
+
+2. O QUE É O AYUMI
+
+O Ayumi é um sistema automatizado integrado ao Discord para oferecer
+recursos a comunidades, servidores e usuários.
+
+Entre os recursos documentados podem existir sistemas de:
+
+-   verificação por CAPTCHA;
+-   vinculação e identificação de contas Roblox;
+-   perfis;
+-   estatísticas;
+-   conquistas;
+-   economia e Orbs;
+-   inventário;
+-   eventos;
+-   notificações;
+-   tickets e outros fluxos de atendimento;
+-   moderação;
+-   comandos administrativos;
+-   dashboard e recursos auxiliares;
+-   outras funcionalidades disponibilizadas em versões futuras.
+
+A disponibilidade de cada recurso depende da versão do sistema, da
+configuração do servidor, das permissões disponíveis e dos serviços
+externos necessários.
+
+------------------------------------------------------------------------
+
+3. PRINCÍPIOS DE TRATAMENTO
+
+O Ayumi busca aplicar os seguintes princípios ao tratamento de
+informações:
+
+1.  utilizar somente informações necessárias ao funcionamento dos
+    recursos;
+2.  limitar informações temporárias por mecanismos de expiração quando
+    aplicável;
+3.  proteger operações sensíveis contra utilização por usuários
+    diferentes do usuário que iniciou a operação;
+4.  evitar a solicitação de credenciais secretas;
+5.  utilizar informações de acordo com a finalidade do recurso
+    correspondente;
+6.  reduzir ambiguidades e duplicidades em operações persistentes;
+7.  aplicar mecanismos de segurança para reduzir operações indevidas;
+8.  manter registros de estado necessários para que operações
+    importantes sobrevivam a reinicializações quando o recurso exigir
+    isso.
+
+------------------------------------------------------------------------
+
+4. DADOS DO DISCORD
+
+Dependendo do recurso utilizado, o Ayumi pode precisar utilizar
+identificadores técnicos do Discord para associar uma operação ao
+usuário ou ao servidor correto.
+
+Entre as informações documentadas estão:
+
+-   ID do usuário do Discord;
+-   ID do servidor;
+-   identificação de mensagens envolvidas em determinadas operações;
+-   informações necessárias para identificar interações;
+-   informações relacionadas à configuração do recurso no servidor.
+
+No CAPTCHA, por exemplo, o sistema utiliza a identificação do usuário, a
+identificação do servidor e a identificação das mensagens envolvidas no
+desafio. O registro de verificação é associado ao usuário e ao servidor
+correspondente.
+
+------------------------------------------------------------------------
+
+5. MENSAGENS E INTERAÇÕES
+
+Determinados recursos funcionam por meio de mensagens, botões,
+respostas, componentes e outras interações do Discord.
+
+Essas informações podem ser utilizadas para:
+
+-   identificar a operação em andamento;
+-   associar uma ação ao usuário correto;
+-   processar respostas;
+-   concluir verificações;
+-   controlar confirmações;
+-   cancelar operações;
+-   confirmar desvinculações;
+-   conduzir fluxos em mensagens diretas.
+
+A utilização de uma mensagem ou interação em um fluxo não significa, por
+si só, que todo o conteúdo de todas as mensagens do Discord seja
+armazenado permanentemente pelo Ayumi.
+
+------------------------------------------------------------------------
+
+6. CAPTCHA
+
+O sistema de CAPTCHA utiliza informações técnicas necessárias para
+associar a tentativa ao usuário e ao servidor de origem.
+
+Podem ser utilizados:
+
+-   ID do usuário;
+-   ID do servidor;
+-   identificadores das mensagens envolvidas;
+-   configuração do CAPTCHA;
+-   canal de verificação;
+-   cargos configurados pelo administrador;
+-   estado da verificação;
+-   informações necessárias para processar a resposta;
+-   informações temporárias relacionadas ao desafio.
+
+O sistema mantém o registro necessário para identificar usuários
+verificados no servidor e permite que administradores consultem ou
+removam esse status pelos recursos administrativos disponíveis.
+
+------------------------------------------------------------------------
+
+7. MENSAGENS DIRETAS NO CAPTCHA
+
+O CAPTCHA pode ser enviado por mensagem direta do Discord.
+
+Para executar esse fluxo, o Ayumi precisa conseguir enviar a mensagem ao
+usuário.
+
+As mensagens diretas são utilizadas para conduzir a verificação e
+receber a resposta correspondente.
+
+O Ayumi não controla as configurações de privacidade da conta do
+Discord.
+
+------------------------------------------------------------------------
+
+8. DADOS QUE O CAPTCHA NÃO SOLICITA
+
+O CAPTCHA não solicita:
+
+-   senha do Discord;
+-   senha de outras contas;
+-   código de autenticação em dois fatores;
+-   cookies de sessão;
+-   tokens de sessão;
+-   chaves privadas;
+-   credenciais externas.
+
+O usuário nunca deve fornecer essas informações ao Ayumi, a
+administradores, a outros usuários ou a terceiros em razão de uma
+verificação.
+
+------------------------------------------------------------------------
+
+9. VINCULAÇÃO DISCORD E ROBLOX
+
+O recurso de vinculação permite associar uma conta Roblox a uma conta do
+Discord.
+
+A associação existe para que o Ayumi reconheça qual conta Roblox está
+relacionada ao usuário do Discord e possa disponibilizar recursos que
+dependam dessa associação.
+
+A vinculação não concede ao Ayumi propriedade ou controle sobre a conta
+Roblox.
+
+------------------------------------------------------------------------
+
+10. INFORMAÇÕES PÚBLICAS DO ROBLOX
+
+Durante a vinculação, o sistema pode consultar informações públicas
+disponibilizadas pelos serviços do Roblox.
+
+Entre as informações documentadas estão:
+
+-   ID numérico da conta Roblox;
+-   username;
+-   display name;
+-   descrição ou bio pública;
+-   URL pública do perfil;
+-   outras informações públicas necessárias para localizar e identificar
+    a conta.
+
+A descrição ou bio pública é consultada especificamente durante a etapa
+de verificação para procurar o código temporário gerado pelo sistema.
+
+------------------------------------------------------------------------
+
+11. INFORMAÇÕES ARMAZENADAS PARA A VINCULAÇÃO
+
+Para manter a associação ativa entre Discord e Roblox, o sistema pode
+armazenar:
+
+-   ID do usuário do Discord;
+-   ID da conta Roblox;
+-   username;
+-   display name;
+-   URL pública do perfil Roblox;
+-   momento da vinculação;
+-   estado de aceitação dos Termos de Uso;
+-   versão dos Termos de Uso aceita;
+-   momento da aceitação.
+
+Essas informações permitem que o Ayumi reconheça a conta vinculada e
+saiba se a utilização pelos recursos dependentes da vinculação está
+autorizada.
+
+------------------------------------------------------------------------
+
+12. DADOS TEMPORÁRIOS DA VERIFICAÇÃO ROBLOX
+
+Durante o processo de vinculação, podem existir informações temporárias
+contendo:
+
+-   usuário do Discord que iniciou o processo;
+-   código temporário;
+-   ID da conta Roblox;
+-   username;
+-   display name;
+-   URL pública do perfil;
+-   horário de expiração da tentativa.
+
+O processo documentado utiliza uma janela aproximada de 10 minutos para
+esse tipo de verificação.
+
+Depois da expiração, a tentativa deixa de ser válida e uma nova
+tentativa pode ser necessária.
+
+------------------------------------------------------------------------
+
+13. CÓDIGO TEMPORÁRIO DO ROBLOX
+
+O código utilizado para verificar a posse da conta Roblox é uma
+informação temporária relacionada à operação.
+
+Ele existe para permitir uma confirmação adicional de que o usuário
+consegue modificar a conta Roblox apresentada.
+
+O código não substitui senha ou credencial de autenticação e não deve
+ser compartilhado desnecessariamente.
+
+------------------------------------------------------------------------
+
+14. CREDENCIAIS QUE O AYUMI NÃO SOLICITA
+
+Para a vinculação Roblox, o Ayumi não precisa solicitar:
+
+-   senha do Roblox;
+-   senha do Discord;
+-   código de autenticação de dois fatores;
+-   cookie de autenticação;
+-   token de sessão;
+-   chave privada;
+-   informações de login da conta Roblox.
+
+Qualquer pessoa que solicitar essas informações alegando representar o
+Ayumi não deve ser considerada autorizada apenas por fazer essa
+alegação.
+
+------------------------------------------------------------------------
+
+15. ACEITAÇÃO DOS TERMOS E REGISTROS
+
+Quando a vinculação Roblox exige aceitação dos Termos de Uso, o sistema
+registra a aceitação juntamente com a versão correspondente.
+
+O registro pode conter:
+
+-   estado de aceitação;
+-   versão dos termos;
+-   momento da aceitação;
+-   associação com a conta Discord e a conta Roblox correspondentes.
+
+A finalidade desse registro é permitir que o sistema saiba quais
+condições foram apresentadas e aceitas.
+
+------------------------------------------------------------------------
+
+16. CONTAS VERIFICADAS E CONTAS VINCULADAS
+
+O Ayumi diferencia uma conta Roblox apenas verificada de uma conta
+efetivamente vinculada.
+
+Uma conta verificada significa que o código da tentativa foi confirmado.
+
+Uma conta vinculada significa que a verificação foi concluída e que a
+etapa necessária de aceitação dos Termos de Uso também foi concluída.
+
+Enquanto a aceitação não ocorrer, a associação pode permanecer em estado
+pendente.
+
+------------------------------------------------------------------------
+
+17. DESVINCULAÇÃO
+
+O usuário pode solicitar a desvinculação da conta Roblox através do
+recurso disponibilizado pelo Ayumi.
+
+O procedimento documentado utiliza uma confirmação antes de executar a
+remoção.
+
+Quando a desvinculação é confirmada, a associação ativa entre Discord e
+Roblox deixa de existir para os recursos de vinculação.
+
+Uma futura vinculação poderá exigir que as informações necessárias sejam
+fornecidas novamente.
+
+------------------------------------------------------------------------
+
+18. PROTEÇÃO DE OPERAÇÕES SENSÍVEIS
+
+As operações sensíveis do sistema são associadas ao usuário que iniciou
+a operação.
+
+Isso inclui, conforme o recurso:
+
+-   confirmação de verificação;
+-   navegação pelos termos;
+-   aceitação dos termos;
+-   cancelamento;
+-   confirmação de desvinculação;
+-   cancelamento de desvinculação.
+
+Essa associação existe para reduzir o risco de que outro usuário utilize
+uma interação destinada a uma operação diferente.
+
+------------------------------------------------------------------------
+
+19. MENSAGENS PERSISTENTES
+
+Algumas operações importantes utilizam componentes persistentes.
+
+Isso significa que determinadas operações podem depender de informações
+armazenadas para que o sistema consiga reconhecê-las posteriormente.
+
+Esse comportamento permite, quando previsto pelo recurso, que uma
+operação importante não seja perdida simplesmente porque o bot foi
+reiniciado.
+
+------------------------------------------------------------------------
+
+20. OPERAÇÕES TEMPORÁRIAS
+
+Operações temporárias podem possuir:
+
+-   identificadores temporários;
+-   códigos;
+-   estados;
+-   horários de expiração;
+-   informações necessárias para concluir ou cancelar a operação.
+
+Quando a operação expira, as informações necessárias exclusivamente para
+aquela operação podem deixar de ter utilidade operacional.
+
+O prazo exato de retenção de cada informação depende da função
+correspondente e de sua implementação.
+
+------------------------------------------------------------------------
+
+21. DADOS DE PERFIL, ESTATÍSTICAS E CONQUISTAS
+
+Recursos de perfil, estatísticas e conquistas podem utilizar
+identificadores de usuário e informações necessárias para manter o
+estado correspondente.
+
+Esses dados podem existir para:
+
+-   identificar o perfil;
+-   manter estatísticas;
+-   registrar conquistas;
+-   exibir progresso;
+-   manter informações associadas às funcionalidades do bot.
+
+O Ayumi não deve interpretar esses dados como informações de
+autenticação.
+
+------------------------------------------------------------------------
+
+22. ECONOMIA, ORBS E INVENTÁRIO
+
+Recursos de economia, Orbs, inventário, recompensas ou sistemas
+semelhantes podem exigir armazenamento do estado necessário para manter
+a funcionalidade.
+
+Isso pode incluir informações relacionadas a:
+
+-   saldo;
+-   recompensas;
+-   itens;
+-   inventário;
+-   operações de economia;
+-   registros necessários para evitar inconsistências.
+
+Essas informações são utilizadas para fornecer os recursos
+correspondentes.
+
+------------------------------------------------------------------------
+
+23. EVENTOS E NOTIFICAÇÕES
+
+Quando o usuário participa de eventos ou utiliza recursos de
+notificações, o sistema pode precisar registrar informações necessárias
+para identificar sua participação, estado ou configuração.
+
+A finalidade é permitir que o evento ou a notificação funcione
+corretamente.
+
+------------------------------------------------------------------------
+
+24. TICKETS E ATENDIMENTO
+
+Recursos de tickets podem utilizar informações necessárias para
+identificar:
+
+-   o usuário que abriu o atendimento;
+-   o servidor;
+-   o canal ou ticket correspondente;
+-   o estado do atendimento;
+-   ações administrativas necessárias ao funcionamento do ticket.
+
+Quando houver transcritos, o conteúdo e a forma de armazenamento
+dependerão da implementação específica do recurso.
+
+O Ayumi não deve ser utilizado como mecanismo para armazenar segredos,
+senhas ou credenciais de usuários.
+
+------------------------------------------------------------------------
+
+25. CONTEÚDO FORNECIDO PELO USUÁRIO
+
+O usuário pode fornecer informações ou conteúdo durante a utilização de
+determinados recursos.
+
+O tratamento desse conteúdo depende da função que recebeu o conteúdo.
+
+O usuário deve evitar enviar ao bot:
+
+-   senhas;
+-   tokens;
+-   cookies;
+-   códigos 2FA;
+-   chaves privadas;
+-   credenciais;
+-   informações altamente sensíveis desnecessárias.
+
+------------------------------------------------------------------------
+
+26. DADOS ADMINISTRATIVOS
+
+Administradores podem utilizar funções que consultam ou modificam
+estados do sistema.
+
+No CAPTCHA, por exemplo, administradores podem consultar usuários
+verificados, aprovar manualmente um membro e remover uma verificação.
+
+O acesso administrativo depende das permissões disponíveis e da
+configuração do servidor.
+
+O Ayumi executa as configurações fornecidas pelo servidor e não
+determina sozinho quais cargos ou regras internas devem ser utilizados.
+
+------------------------------------------------------------------------
+
+27. FINALIDADES DO TRATAMENTO
+
+As informações utilizadas pelo Ayumi podem ser necessárias para
+finalidades como:
+
+1.  executar comandos;
+2.  identificar o usuário que iniciou uma operação;
+3.  identificar o servidor de origem;
+4.  executar verificações;
+5.  manter o estado de uma vinculação Roblox;
+6.  consultar informações públicas do Roblox;
+7.  registrar aceitação de termos;
+8.  manter perfis, estatísticas e conquistas;
+9.  manter recursos de economia, Orbs e inventário;
+10. executar eventos e notificações;
+11. conduzir tickets e fluxos administrativos;
+12. evitar operações duplicadas;
+13. impedir interações de usuários não autorizados com operações
+    sensíveis;
+14. permitir que operações persistentes continuem corretamente;
+15. proteger a integridade dos recursos.
+
+------------------------------------------------------------------------
+
+28. BASE OPERACIONAL DO TRATAMENTO
+
+As informações são utilizadas porque determinados recursos não conseguem
+funcionar corretamente sem identificar o usuário, o servidor, a operação
+ou o estado necessário.
+
+Exemplos:
+
+-   o CAPTCHA precisa associar a tentativa ao usuário e ao servidor;
+-   a vinculação Roblox precisa associar Discord e Roblox;
+-   a desvinculação precisa identificar qual associação deve ser
+    removida;
+-   a aceitação dos termos precisa ser associada à versão aceita;
+-   operações persistentes precisam manter informações suficientes para
+    serem reconhecidas após reinicializações.
+
+------------------------------------------------------------------------
+
+29. ARMAZENAMENTO
+
+Informações necessárias para recursos persistentes podem ser armazenadas
+no banco de dados utilizado pelo Ayumi.
+
+No caso da vinculação Roblox, o armazenamento é necessário para manter a
+associação disponível mesmo depois que o usuário sair do Discord, fechar
+o aplicativo ou o bot for reiniciado.
+
+O banco de dados pode conter diferentes categorias de informações
+conforme os recursos efetivamente habilitados.
+
+------------------------------------------------------------------------
+
+30. RETENÇÃO
+
+O Ayumi utiliza mecanismos de expiração para dados e operações que
+possuem natureza temporária.
+
+Exemplos documentados incluem:
+
+-   códigos temporários de vinculação;
+-   tentativas de verificação;
+-   estados de CAPTCHA;
+-   operações pendentes;
+-   componentes de interação que perderam sua validade.
+
+Informações permanentes ou necessárias para manter uma funcionalidade
+ativa podem permanecer armazenadas enquanto forem necessárias para
+aquela finalidade.
+
+Os documentos técnicos disponíveis não estabelecem um prazo universal de
+retenção para todas as categorias de dados. Portanto, esta Política não
+inventa um prazo único para informações cuja retenção não esteja
+definida.
+
+------------------------------------------------------------------------
+
+31. EXPIRAÇÃO E LIMPEZA
+
+Quando uma operação deixa de ser válida, ela pode ser encerrada por
+expiração.
+
+A expiração reduz a possibilidade de que processos antigos continuem
+utilizáveis indefinidamente.
+
+O fato de uma operação ter expirado não significa automaticamente que
+todos os registros históricos relacionados a ela sejam apagados no mesmo
+instante, caso algum registro seja necessário para segurança,
+consistência ou auditoria.
+
+------------------------------------------------------------------------
+
+32. EXCLUSÃO E DESVINCULAÇÃO
+
+A desvinculação Roblox remove a associação ativa entre o usuário do
+Discord e a conta Roblox para os recursos de vinculação.
+
+A remoção da associação ativa não deve ser interpretada automaticamente
+como eliminação imediata de qualquer registro técnico ou histórico que
+possa ser necessário para segurança, integridade ou funcionamento do
+sistema.
+
+Quando houver uma solicitação de exclusão de dados, ela deverá ser
+analisada de acordo com o tipo de informação, a finalidade do
+armazenamento e as limitações técnicas aplicáveis.
+
+------------------------------------------------------------------------
+
+33. SEGURANÇA
+
+O Ayumi utiliza mecanismos destinados a reduzir operações indevidas.
+
+Entre as medidas documentadas estão:
+
+-   validação do usuário que interage com operações sensíveis;
+-   expiração de operações;
+-   verificação de correspondência entre código e usuário;
+-   verificação de contas Roblox já vinculadas;
+-   confirmações antes de operações destrutivas;
+-   proteção contra reutilização de processos antigos;
+-   identificadores temporários;
+-   controle de operações por servidor;
+-   controle de mensagens e componentes;
+-   redução de mensagens duplicadas;
+-   manutenção de estados necessários para operações persistentes.
+
+Nenhum sistema conectado à internet pode garantir segurança absoluta.
+
+------------------------------------------------------------------------
+
+34. SEGURANÇA DE CREDENCIAIS
+
+O Ayumi não deve receber senhas, cookies, tokens de sessão, códigos 2FA
+ou chaves privadas.
+
+A existência de um recurso de verificação não transforma essas
+informações em necessárias.
+
+Se um terceiro solicitar credenciais em nome do Ayumi, não forneça essas
+informações.
+
+------------------------------------------------------------------------
+
+35. PROTEÇÃO CONTRA REUTILIZAÇÃO DE OPERAÇÕES
+
+O sistema possui mecanismos destinados a impedir que solicitações
+antigas sejam reutilizadas fora do estado atual.
+
+No CAPTCHA, por exemplo, tentativas anteriores podem ser invalidadas
+quando uma nova geração é iniciada.
+
+Na vinculação Roblox, operações sensíveis possuem associação com o
+usuário que iniciou o processo e podem possuir expiração.
+
+Essas medidas têm como finalidade reduzir replay, reutilização indevida
+e ambiguidades entre operações.
+
+------------------------------------------------------------------------
+
+36. SERVIÇOS DE TERCEIROS
+
+O funcionamento do Ayumi pode depender de serviços externos, incluindo:
+
+-   Discord;
+-   Roblox e suas APIs;
+-   conexão com a internet;
+-   serviços de hospedagem ou infraestrutura utilizados pelo projeto;
+-   banco de dados utilizado pelo sistema.
+
+Cada serviço externo possui suas próprias políticas, termos e controles.
+
+O Ayumi não controla as políticas de privacidade, disponibilidade ou
+infraestrutura das plataformas externas.
+
+------------------------------------------------------------------------
+
+37. DISCORD
+
+O Ayumi utiliza a plataforma Discord para disponibilizar seus recursos.
+
+O Discord controla sua própria plataforma, contas, infraestrutura e
+políticas.
+
+O Ayumi não solicita a senha da conta Discord para utilização dos
+recursos documentados.
+
+As configurações de privacidade do Discord, incluindo a possibilidade de
+receber mensagens diretas, podem afetar o funcionamento de determinados
+recursos.
+
+------------------------------------------------------------------------
+
+38. ROBLOX
+
+A integração com Roblox pode consultar informações públicas
+disponibilizadas pela plataforma.
+
+O Ayumi não solicita a senha da conta Roblox para o procedimento de
+vinculação documentado.
+
+As informações públicas do perfil Roblox podem mudar independentemente
+do Ayumi.
+
+A existência de uma vinculação não significa que o Ayumi controle essas
+informações.
+
+------------------------------------------------------------------------
+
+39. TRANSFERÊNCIA E ACESSO POR TERCEIROS
+
+O Ayumi não deve ser interpretado como autorizando terceiros a acessar
+indiscriminadamente informações dos usuários.
+
+O acesso a informações pode ocorrer dentro do funcionamento do serviço,
+por exemplo:
+
+-   pelo próprio sistema;
+-   por administradores quando o recurso disponibilizar consulta
+    administrativa;
+-   por serviços externos indispensáveis ao funcionamento da integração
+    correspondente.
+
+O acesso administrativo deve respeitar as permissões e a configuração do
+servidor.
+
+------------------------------------------------------------------------
+
+40. ADMINISTRADORES DOS SERVIDORES
+
+Administradores possuem controle sobre diversas configurações do próprio
+servidor.
+
+No CAPTCHA, por exemplo, o administrador define o canal de verificação,
+o cargo aplicado e, opcionalmente, o cargo removido.
+
+O administrador também pode consultar ou remover determinados estados de
+verificação quando o recurso disponibilizar essa função.
+
+O Ayumi não controla as decisões administrativas internas do servidor.
+
+------------------------------------------------------------------------
+
+41. DADOS DE TERCEIROS
+
+Usuários não devem inserir no Ayumi informações pessoais de terceiros
+sem necessidade ou autorização adequada.
+
+Se um recurso envolver informações pertencentes a outra pessoa, o
+usuário responsável pela ação deve possuir autorização legítima para
+utilizar essas informações.
+
+O Ayumi não deve ser utilizado para coletar, expor ou explorar
+informações de terceiros de forma indevida.
+
+------------------------------------------------------------------------
+
+42. COOKIES, IP E DADOS DE NAVEGAÇÃO
+
+Os documentos técnicos utilizados como base desta Política não
+estabelecem que o Ayumi armazene permanentemente endereço IP, cookies de
+navegador ou histórico completo de navegação como requisito geral dos
+recursos documentados.
+
+Por esse motivo, esta Política não declara uma coleta permanente dessas
+categorias como fato.
+
+Caso uma futura implementação passe a coletar uma dessas categorias de
+maneira relevante, a documentação de privacidade deverá ser atualizada
+para refletir o funcionamento real.
+
+------------------------------------------------------------------------
+
+43. DASHBOARD E AUTORIZAÇÃO
+
+Recursos de dashboard podem exigir identificação e autorização para
+permitir acesso a funções administrativas ou de configuração.
+
+O princípio aplicável é que o sistema deve verificar se a operação
+pertence ao usuário autorizado e se a ação está dentro das permissões
+disponíveis.
+
+Informações utilizadas exclusivamente para uma sessão ou autorização
+temporária devem ser tratadas de acordo com sua finalidade e validade.
+
+O Ayumi não deve solicitar senhas do Discord como método normal de
+autenticação de seus recursos.
+
+------------------------------------------------------------------------
+
+44. AUDITORIA E INTEGRIDADE
+
+Quando um recurso precisar manter informações para preservar a
+integridade de uma operação, determinados estados, identificadores ou
+registros podem permanecer armazenados.
+
+Isso pode ser necessário para:
+
+-   verificar a consistência de uma operação;
+-   impedir duplicidades;
+-   reconhecer uma operação persistente;
+-   confirmar uma ação sensível;
+-   investigar falhas ou abuso;
+-   preservar a integridade do estado armazenado.
+
+------------------------------------------------------------------------
+
+45. LIMITAÇÃO DE FINALIDADE
+
+Informações utilizadas para uma finalidade específica não devem ser
+consideradas automaticamente autorizadas para qualquer outra finalidade.
+
+Por exemplo, um código temporário de vinculação Roblox existe para
+verificar uma tentativa específica e não deve ser tratado como uma
+credencial geral.
+
+Da mesma forma, informações utilizadas pelo CAPTCHA servem ao fluxo de
+verificação correspondente.
+
+------------------------------------------------------------------------
+
+46. DADOS NÃO SOLICITADOS
+
+O Ayumi não precisa solicitar aos usuários:
+
+-   senha do Discord;
+-   senha do Roblox;
+-   senha de outras contas;
+-   código 2FA;
+-   cookies de autenticação;
+-   tokens de sessão;
+-   chaves privadas;
+-   credenciais externas.
+
+Se algum recurso futuro exigir uma categoria adicional de informação, a
+documentação correspondente deverá ser atualizada de acordo com sua
+implementação real.
+
+------------------------------------------------------------------------
+
+47. INCIDENTES DE SEGURANÇA
+
+Caso seja identificado um incidente que afete informações armazenadas
+pelo sistema, serão avaliadas as medidas técnicas e administrativas
+necessárias para contenção, investigação e correção.
+
+A resposta dependerá da natureza, extensão e impacto do incidente.
+
+O Ayumi mantém como prioridade a preservação da integridade das
+operações e a redução de acesso indevido.
+
+------------------------------------------------------------------------
+
+48. VULNERABILIDADES
+
+Problemas de segurança devem ser comunicados pelos canais oficiais de
+suporte do projeto, quando disponíveis.
+
+Relatórios devem conter informações suficientes para permitir a
+reprodução e investigação do problema, evitando o envio de senhas,
+tokens, cookies ou outros segredos.
+
+Não tente explorar uma vulnerabilidade contra outros usuários ou
+servidores.
+
+------------------------------------------------------------------------
+
+49. RESPONSABILIDADE DO USUÁRIO
+
+O usuário é responsável por proteger sua própria conta Discord, sua
+conta Roblox e quaisquer informações que escolha fornecer.
+
+O usuário não deve:
+
+-   compartilhar credenciais;
+-   compartilhar tokens;
+-   compartilhar cookies;
+-   fornecer códigos de autenticação;
+-   utilizar contas de terceiros sem autorização;
+-   tentar contornar mecanismos de segurança;
+-   explorar falhas;
+-   interferir propositalmente no funcionamento do Ayumi.
+
+------------------------------------------------------------------------
+
+50. RESPONSABILIDADE SOBRE INFORMAÇÕES PÚBLICAS
+
+Uma informação pública do Roblox continua sendo pública
+independentemente de o Ayumi consultá-la.
+
+A consulta pelo Ayumi não significa que o sistema tenha transformado uma
+informação pública em informação privada.
+
+O mesmo princípio não autoriza o uso indevido de informações de
+terceiros.
+
+------------------------------------------------------------------------
+
+51. MENORES E CAPACIDADE PARA UTILIZAÇÃO
+
+O Ayumi é um serviço integrado ao Discord e pode ser utilizado em
+comunidades com usuários de diferentes idades.
+
+O serviço não deve ser utilizado para solicitar informações sensíveis
+desnecessárias de menores ou de qualquer outro usuário.
+
+Quando a legislação aplicável exigir requisitos específicos relacionados
+à idade, consentimento ou tratamento de dados, esses requisitos devem
+ser observados pelo responsável pelo serviço e pelos operadores
+correspondentes.
+
+Esta Política não deve ser interpretada como aconselhamento jurídico
+sobre legislação específica.
+
+------------------------------------------------------------------------
+
+52. DIREITOS DO USUÁRIO
+
+Dependendo da legislação aplicável ao usuário e ao tratamento realizado,
+podem existir direitos relacionados às informações pessoais, incluindo
+direitos de acesso, correção, exclusão ou outras medidas previstas em
+lei.
+
+Pedidos relacionados a dados devem identificar, de maneira suficiente, a
+informação ou operação à qual se referem.
+
+Algumas informações podem precisar ser mantidas quando forem necessárias
+para segurança, integridade, cumprimento de obrigações ou prevenção de
+abuso, conforme permitido pela legislação aplicável.
+
+------------------------------------------------------------------------
+
+53. SOLICITAÇÕES DE DADOS
+
+Uma solicitação de acesso, correção ou exclusão não deve ser
+interpretada como autorização para remover indiscriminadamente
+informações de outros usuários, servidores ou registros necessários à
+segurança.
+
+O atendimento dependerá da natureza da informação e da possibilidade
+técnica de identificar corretamente o registro correspondente.
+
+------------------------------------------------------------------------
+
+54. RETIFICAÇÃO
+
+Quando uma informação armazenada estiver incorreta e puder ser alterada
+sem comprometer a integridade do sistema, poderá ser solicitada sua
+correção.
+
+No caso de informações públicas do Roblox, a alteração na própria
+plataforma Roblox pode ser necessária antes que o Ayumi consiga
+consultar novamente o valor atualizado.
+
+------------------------------------------------------------------------
+
+55. DESVINCULAÇÃO COMO CONTROLE DO USUÁRIO
+
+A desvinculação Roblox é um mecanismo direto de controle sobre a
+associação ativa entre a conta Discord e a conta Roblox.
+
+Após a desvinculação, os recursos que dependem da associação ativa
+deixam de tratar aquela associação como uma vinculação vigente.
+
+------------------------------------------------------------------------
+
+56. ALTERAÇÕES DESTA POLÍTICA
+
+Esta Política pode ser atualizada para refletir:
+
+-   mudanças reais no funcionamento do Ayumi;
+-   novos recursos;
+-   alterações de armazenamento;
+-   alterações de segurança;
+-   novas integrações;
+-   alterações legais ou operacionais.
+
+Quando uma alteração exigir comunicação ou nova aceitação, o sistema
+poderá utilizar mecanismos apropriados para apresentar a nova versão.
+
+------------------------------------------------------------------------
+
+57. CONTROLE DE VERSÃO
+
+Cada versão desta Política possui uma identificação própria.
+
+A versão atual é:
+
+Política de Privacidade — Ayumi v1.0
+
+Última atualização: 08/10/2026.
+
+O controle de versão existe para permitir identificar qual versão da
+Política estava publicada em determinado momento.
+
+------------------------------------------------------------------------
+
+58. CONSISTÊNCIA ENTRE POLÍTICA E IMPLEMENTAÇÃO
+
+A Política de Privacidade deve refletir o funcionamento real do Ayumi.
+
+Caso uma implementação futura passe a coletar ou armazenar uma categoria
+de informação que não esteja descrita nesta Política, a documentação
+deverá ser revisada antes ou em conjunto com a disponibilização
+relevante da nova funcionalidade, quando aplicável.
+
+Não se deve interpretar esta Política como autorização para implementar
+coleta de dados que não seja necessária ao funcionamento do serviço.
+
+------------------------------------------------------------------------
+
+59. SEGURANÇA COMO PRIORIDADE
+
+O Ayumi busca manter mecanismos de proteção elevados para operações
+sensíveis.
+
+A proteção inclui, conforme o recurso:
+
+-   associação de operações ao usuário;
+-   expiração;
+-   confirmação de ações;
+-   validação de estado;
+-   proteção contra reutilização;
+-   controle por servidor;
+-   prevenção de duplicidade;
+-   armazenamento do estado necessário;
+-   separação entre operações temporárias e associações ativas.
+
+Essas medidas reduzem riscos, mas não representam garantia absoluta
+contra todos os incidentes possíveis.
+
+------------------------------------------------------------------------
+
+60. INFORMAÇÕES QUE NÃO DEVEM SER ARMAZENADAS PELO USUÁRIO
+
+O usuário não deve utilizar tickets, mensagens, comandos ou outros
+recursos do Ayumi para armazenar voluntariamente:
+
+-   senhas;
+-   tokens;
+-   cookies;
+-   códigos 2FA;
+-   chaves privadas;
+-   códigos de recuperação;
+-   credenciais de serviços externos.
+
+Se uma informação secreta for enviada por engano, o usuário deve
+considerar essa informação comprometida e tomar as medidas apropriadas
+no serviço correspondente.
+
+------------------------------------------------------------------------
+
+61. EXCLUSÃO DE OPERAÇÕES TEMPORÁRIAS
+
+Operações temporárias que expirarem ou forem canceladas podem deixar de
+ser utilizadas pelo fluxo correspondente.
+
+A retenção de qualquer registro técnico remanescente dependerá da
+necessidade de consistência, segurança, auditoria ou funcionamento do
+sistema.
+
+Não é apropriado prometer uma exclusão instantânea de todos os vestígios
+técnicos quando a implementação não estabelece isso.
+
+------------------------------------------------------------------------
+
+62. DISPONIBILIDADE E SERVIÇOS EXTERNOS
+
+A indisponibilidade do Discord, Roblox, banco de dados, conexão de
+internet ou outros serviços necessários pode impedir que uma operação
+seja concluída.
+
+Uma falha de comunicação não significa necessariamente que uma
+informação armazenada esteja incorreta.
+
+Quando possível, o sistema informa ao usuário que a operação deve ser
+tentada novamente.
+
+------------------------------------------------------------------------
+
+63. ALTERAÇÕES NAS INFORMAÇÕES DO ROBLOX
+
+Username, display name, descrição e outras informações públicas do
+Roblox podem mudar depois da vinculação.
+
+O Ayumi poderá consultar novamente informações públicas quando um
+recurso precisar delas.
+
+A alteração realizada diretamente no Roblox não significa que o Ayumi
+controle a conta ou seus dados.
+
+------------------------------------------------------------------------
+
+64. SEGURANÇA DE INTEGRAÇÕES
+
+Integrações externas devem utilizar somente as informações necessárias
+ao recurso correspondente.
+
+O Ayumi não deve utilizar uma integração como justificativa para
+solicitar credenciais privadas que não sejam necessárias.
+
+Em especial, a integração Roblox documentada não exige senha, cookie ou
+token de sessão da conta.
+
+------------------------------------------------------------------------
+
+65. USO INDEVIDO DE DADOS
+
+É proibido utilizar recursos do Ayumi para:
+
+-   obter dados de terceiros sem autorização;
+-   tentar vincular contas de terceiros;
+-   explorar informações públicas para fins abusivos;
+-   contornar sistemas de segurança;
+-   expor informações privadas;
+-   utilizar dados para enganar ou prejudicar usuários.
+
+O tratamento de informações deve permanecer vinculado às finalidades
+legítimas dos recursos.
+
+------------------------------------------------------------------------
+
+66. RELAÇÃO COM OS TERMOS DE USO
+
+Esta Política de Privacidade complementa os Termos de Uso do Ayumi.
+
+Os Termos estabelecem condições gerais de utilização.
+
+Esta Política explica o tratamento das informações relacionadas ao
+funcionamento do serviço.
+
+Quando uma funcionalidade possuir documentação específica sobre dados,
+essa documentação poderá complementar esta Política.
+
+------------------------------------------------------------------------
+
+67. NÃO SOLICITAÇÃO DE SEGREDOS
+
+O Ayumi não precisa de credenciais privadas para executar os fluxos
+documentados de CAPTCHA e vinculação Roblox.
+
+Nenhum usuário deve interpretar uma mensagem enviada por outra pessoa
+como uma solicitação oficial de senha ou token.
+
+Somente os mecanismos oficiais do próprio serviço devem ser utilizados.
+
+------------------------------------------------------------------------
+
+68. PRIVACIDADE POR CONFIGURAÇÃO
+
+A configuração de cada servidor pode alterar quais recursos são
+utilizados.
+
+Por exemplo, o administrador pode configurar o CAPTCHA, incluindo canal
+e cargos.
+
+Assim, determinados dados somente serão utilizados quando o recurso
+correspondente estiver ativo e for executado.
+
+------------------------------------------------------------------------
+
+69. LIMITAÇÃO DO ESCOPO
+
+Esta Política não controla:
+
+-   as práticas do Discord;
+-   as práticas do Roblox;
+-   as práticas de servidores administrados por terceiros;
+-   sites externos acessados pelo usuário;
+-   serviços externos independentes do Ayumi.
+
+Cada serviço possui sua própria política e responsabilidade sobre seus
+respectivos tratamentos.
+
+------------------------------------------------------------------------
+
+70. INTERPRETAÇÃO
+
+Esta Política deve ser interpretada de acordo com o funcionamento real
+documentado do Ayumi.
+
+Termos como “pode”, “poderá” e “dependendo do recurso” indicam que
+determinada informação depende da funcionalidade, configuração ou
+implementação correspondente.
+
+Nenhuma seção deve ser interpretada como declaração de que todos os
+dados listados são coletados em todas as interações.
+
+------------------------------------------------------------------------
+
+71. ATUALIZAÇÃO FUTURA DOS RECURSOS
+
+O Ayumi pode receber novos recursos.
+
+Antes de considerar uma nova funcionalidade como abrangida por esta
+Política, deve-se verificar quais informações ela efetivamente utiliza.
+
+Quando necessário, esta Política deverá ser atualizada para refletir a
+nova funcionalidade.
+
+------------------------------------------------------------------------
+
+72. CONTATO E DÚVIDAS
+
+Dúvidas sobre privacidade ou sobre o funcionamento de uma funcionalidade
+devem ser encaminhadas pelos canais oficiais de suporte disponibilizados
+pelo projeto Ayumi.
+
+Não envie senhas, tokens, cookies, códigos 2FA ou outras credenciais ao
+solicitar suporte.
+
+------------------------------------------------------------------------
+
+73. ACEITAÇÃO E CIÊNCIA
+
+Ao utilizar recursos do Ayumi, o usuário declara estar ciente de que
+determinados recursos precisam utilizar informações técnicas para
+funcionar.
+
+No caso da vinculação Roblox, o usuário reconhece que o sistema precisa
+identificar sua conta Discord e a conta Roblox correspondente e que
+informações públicas do Roblox podem ser consultadas.
+
+No caso do CAPTCHA, o usuário reconhece que o sistema utiliza
+informações necessárias para associar a verificação ao usuário e ao
+servidor.
+
+------------------------------------------------------------------------
+
+74. DISPOSIÇÃO SOBRE DADOS NÃO DOCUMENTADOS
+
+Se uma informação não estiver descrita como coletada ou armazenada nesta
+Política e também não estiver documentada como necessária ao recurso
+correspondente, não se deve presumir que o Ayumi a armazene
+permanentemente.
+
+A documentação deverá ser atualizada caso a implementação real passe a
+tratar essa informação de forma relevante.
+
+------------------------------------------------------------------------
+
+75. DISPOSIÇÃO FINAL
+
+O Ayumi busca tratar informações de maneira proporcional às necessidades
+de seus recursos, mantendo mecanismos de segurança e evitando a
+solicitação de credenciais secretas.
+
+A utilização de serviços externos significa que determinadas operações
+também dependem das políticas, disponibilidade e infraestrutura dessas
+plataformas.
+
+Nenhuma política pode substituir a configuração adequada do servidor, a
+proteção da conta do usuário ou o uso responsável das informações.
+
+------------------------------------------------------------------------
+
+76. RESUMO DE TRANSPARÊNCIA
+
+De forma resumida:
+
+Discord: o Ayumi pode utilizar IDs e identificadores técnicos
+necessários para associar usuários, servidores, mensagens e operações.
+
+CAPTCHA: utiliza informações necessárias para associar a tentativa ao
+usuário e servidor, manter o estado de verificação e conduzir o desafio.
+
+Roblox: pode consultar informações públicas como ID, username, display
+name, descrição/bio e URL pública, além de armazenar informações
+necessárias para manter a vinculação.
+
+Dados temporários: códigos, tentativas e estados temporários podem
+possuir expiração.
+
+Termos: a versão e o momento da aceitação podem ser registrados quando
+exigidos pelo recurso.
+
+Credenciais: o Ayumi não solicita senhas, cookies, tokens de sessão,
+códigos 2FA ou chaves privadas para os fluxos documentados.
+
+Segurança: o sistema utiliza validação, expiração, confirmação,
+associação de operações e mecanismos contra reutilização indevida.
+
+------------------------------------------------------------------------
+
+VERSÃO DA POLÍTICA
+
+Serviço: Ayumi
+Documento: Política de Privacidade
+Versão: 1.0
+Última atualização: 08/10/2026
+
+FIM DA POLÍTICA DE PRIVACIDADE
